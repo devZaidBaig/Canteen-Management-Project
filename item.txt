@@ -1,0 +1,36 @@
+Pizza
+20
+8
+Burger
+4
+-5
+Fried rice
+5
+85
+Nasi Goreng
+5
+37
+Roso Malay
+6
+94
+Roti
+2
+84
+Faluda
+7
+117
+Chom Chom
+3
+82
+Roti naan
+9
+48
+Roti Telur
+2.70
+26
+Banana
+10
+45
+fries
+100
+100
