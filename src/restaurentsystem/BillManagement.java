@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shahin
+ * @author Zaid
  */
 public class BillManagement extends javax.swing.JFrame {
     private inTotal it ;
@@ -57,7 +57,7 @@ public class BillManagement extends javax.swing.JFrame {
      private void performFileRelatedTask()
     {
         o = new OrdrManagement();
-      //  RestaurentManagement r= new RestaurentManagement();
+      //  CanteenManagement r= new CanteenManagement();
        // r.setVisible(true);
        // this.dispose();
        
@@ -168,11 +168,11 @@ public class BillManagement extends javax.swing.JFrame {
     }//GEN-LAST:event_backButtonActionPerformed
 
     private void paymentActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_paymentActionPerformed
-        // TODO add your handling code here:
+        
         o.delete();
         t = new TotalPrice();
         
-        RestaurentManagement rm = new RestaurentManagement();
+        CanteenManagement rm = new CanteenManagement();
         rm.setVisible(true);
         this.dispose();
         try {

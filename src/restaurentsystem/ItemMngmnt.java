@@ -9,7 +9,7 @@ package restaurentsystem;
 
 /**
  *
- * @author Shahin
+ * @author Zaid
  */
 public class ItemMngmnt extends javax.swing.JFrame {
 
@@ -191,7 +191,7 @@ public class ItemMngmnt extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        RestaurentManagement rm = new RestaurentManagement();
+        CanteenManagement rm = new CanteenManagement();
         rm.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jButton6ActionPerformed

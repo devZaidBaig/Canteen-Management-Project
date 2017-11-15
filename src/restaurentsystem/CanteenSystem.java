@@ -11,7 +11,7 @@ import javax.swing.JFrame;
  *
  * @author Shahin
  */
-public class RestaurentSystem extends JFrame{
+public class CanteenSystem extends JFrame{
 
     /**
      * @param args the command line arguments

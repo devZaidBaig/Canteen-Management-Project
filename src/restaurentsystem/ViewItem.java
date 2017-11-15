@@ -17,7 +17,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author Shahin
+ * @author Zaid
  */
 public class ViewItem extends javax.swing.JFrame{
    private Names t ;

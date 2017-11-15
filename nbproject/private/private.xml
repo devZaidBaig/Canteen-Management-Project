@@ -3,13 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/OrderManagement.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/ModifyItem.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/RestaurentSystem.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/ReciptFile.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/RestaurentManagement.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/LogIn.java</file>
-            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Restaurant-Management-System-master/src/restaurentsystem/BillManagement.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/DeleteItem.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/LogIn.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/TotalPrice.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/InsertItem.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/CanteenSystem.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/ItemMngmnt.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/ReciptFile.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/CanteenManagement.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/inTotalPrice.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/inTotal.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/OrderManagement.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/ModifyItem.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/BillManagement.java</file>
+            <file>file:/C:/Users/Zaid/Documents/NetBeansProjects/Canteen%20Management%20Project/src/restaurentsystem/ViewItem.java</file>
         </group>
     </open-files>
 </project-private>

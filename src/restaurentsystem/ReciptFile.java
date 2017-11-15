@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Shahin
+ * @author Zaid
  */
 class ReciptFile {
     private Scanner sc;

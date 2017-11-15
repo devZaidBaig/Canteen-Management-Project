@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Shahin
+ * @author Zaid
  */
 public class inTotalPrice {
     public Scanner scan;
